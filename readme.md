@@ -2,4 +2,4 @@
 
 ![Metrics](https://metrics.lecoq.io/okniceman?template=classic&achievements=1&lines=1&introduction=1&activity=1&base.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&introduction.title=true&config.timezone=Europe%2FMoscow)
 
-[![codewars](https://www.codewars.com/users/CloudMilk/badges/large)](https://www.codewars.com/users/Cloudmilk) 
+[![codewars](https://www.codewars.com/users/CloudMilk/badges/large)](https://www.codewars.com/users/CloudMilk) 
